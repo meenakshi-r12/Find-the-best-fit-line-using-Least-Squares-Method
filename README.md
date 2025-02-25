@@ -46,7 +46,8 @@ plt.show()`
 ## Output:
 ![best fit line](sam.png)
 
-![ml exp1](https://github.com/user-attachments/assets/b1464d10-0a54-4474-9a4a-03fda7b9327c)
+![WhatsApp Image 2025-02-25 at 13 51 38_428b9938](https://github.com/user-attachments/assets/ca541b75-15d4-48e9-97e3-900770162c33)
+
 
 
 ## Result:
