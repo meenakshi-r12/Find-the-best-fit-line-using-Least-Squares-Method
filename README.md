@@ -38,8 +38,10 @@ num=0
 
 denum=0
 
-for i in range(len(x)):
+for i in range(len(x)): 
+
     num+=(x[i]-x_mean)*(y[i]-y_mean)
+    
     denum+=(x[i]-x_mean)**2
     
 m=num/denum
